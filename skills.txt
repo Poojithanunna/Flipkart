@@ -1,0 +1,8 @@
+Linux
+Shell script
+Git & Github
+Maven
+Docker
+Ansible
+Kubernetes
+Monitoring
